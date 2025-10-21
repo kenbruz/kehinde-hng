@@ -1,4 +1,4 @@
-# 🐾 Cat-Fact-API
+# 🐾 Kenbruz-Fact-API
 A basic RESTful API using Flask that serves up my profile details alongside a random cat fact pulled from an external API
 
 ## Description
@@ -34,8 +34,7 @@ Cat-API/
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
-  - git clone https://github.com/yourusername/flask-cat-facts.git
-  - cd flask-cat-facts
+  - git clone https://github.com/kenbruz/kehinde-hng.git
 
 ### 2. Create a Virtual Environment
   - python -m venv .venv (for Windows)
@@ -48,9 +47,6 @@ Cat-API/
 ### 3. Install Dependencies
   - pip install -r requirements.txt
 
-### 4.🔐 Environment Variables
-- Create a .env file in the root directory:
- Personal details saved here will be injected into the web (/me) response.
 
 🛠️ Usage
 1. Run the Flask App

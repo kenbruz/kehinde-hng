@@ -52,8 +52,8 @@ def home():
     web_response = {
         "status": "success" if status_code == 200 else "error",
         "user": {
-            "name": name,
-            "email": email,
+            "name": "Kehinde Okeowo",
+            "email": "kenbruz46@gmail.com",
             "stack": "Python/Flask"
         },
         "timestamp": datetime.now(timezone.utc).isoformat(),
